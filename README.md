@@ -1,4 +1,4 @@
-# CSS-step-progress-design
-Simple css steps component which I tried to implement to practise CSS.
-Demo : https://sathvikgatti.github.io/CSS-step-progress-design/
+# CSS-designs
+These are a few practice projects that I tried to implement to strengthen my CSS.
+## 1 - Steps : https://sathvikgatti.github.io/CSS-step-progress-design/
 
